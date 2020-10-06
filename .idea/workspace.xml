@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="897355b4-fe19-427f-a042-d7fd4fef9d89" name="Default Changelist" comment="" />
+    <list default="true" id="897355b4-fe19-427f-a042-d7fd4fef9d89" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,6 +24,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -33,7 +36,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1601472284133</updated>
-      <workItem from="1601472285914" duration="688000" />
+      <workItem from="1601472285914" duration="1340000" />
     </task>
     <servers />
   </component>
@@ -41,6 +44,10 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="507" y="36" key="#com.jetbrains.php.refactoring.extractMethod.PhpExtractMethodDialog#function1" timestamp="1601473569110">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="507" y="36" key="#com.jetbrains.php.refactoring.extractMethod.PhpExtractMethodDialog#function1/0.0.1280.680@0.0.1280.680" timestamp="1601473569110" />
     <state x="142" y="0" key="SettingsEditor" timestamp="1601472377104">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
